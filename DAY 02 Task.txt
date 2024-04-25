@@ -1,0 +1,21 @@
+Window Object:
+
+	--> The Window object is a global object in client-side JavaScript, representing the browser window containing a DOM document and acting as the root of the document object model.
+
+	--> The window object, supported by all browsers, represents the browser’s window and automatically includes global JavaScript objects, functions, and variables as members.
+
+	--> The window object is the topmost object of the DOM hierarchy. It represents a browser window or frame that displays the contents of the webpage. 
+
+	--> Whenever a window appears on the screen to display the contents of the document, the window object is created.
+
+	
+Document Object:
+
+
+	--> The Document object is the HTML document that appears in the browser window and serves as an interface for interacting with the web page’s content. The browser generates a Document Object Model of a web page upon loading it.
+
+	--> The W3C Document Object Model (DOM) is a platform-neutral interface that enables dynamic access and updating of a document’s content, structure, and style by programs and scripts.
+
+	--. It represents the entire HTML document as a node tree, with the Document object as the root node. It allows dynamic updates and interactions with web page content.
+
+	--. It represents any HTML document or web page that is loaded in the browser.
